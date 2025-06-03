@@ -5,4 +5,4 @@ Ocean SS Tool is a lightweight and efficient screenshare utility designed for Mi
 2. Download the Releases
 3. Extract the zip folder
 4. Rename the .vsn file to ur pin code
-5. Launch main.bat
+6. Launch main.bat
