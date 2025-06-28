@@ -4,5 +4,6 @@ Ocean SS Tool is a lightweight and efficient screenshare utility designed for Mi
 1. Go To https://anticheat.ac/ and generate the pin code
 2. Download the Releases
 3. Extract the zip folder
-4. Rename the .vsn file to ur pin code
+4. Due to the old api u need to turn off ur virus protection
+5. Rename the .vsn file to ur pin code
 6. Launch main.bat
